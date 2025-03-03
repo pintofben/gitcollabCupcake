@@ -4,3 +4,4 @@
 * buttermilk
 * baking soda
 * oil
+*sugar
